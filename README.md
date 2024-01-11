@@ -1,3 +1,7 @@
+# About this fork
+
+The only change is that the default action when selecting a project is now recent_project_files.
+
 # 🗃️ project.nvim
 
 **project.nvim** is an all in one neovim plugin written in lua that provides
